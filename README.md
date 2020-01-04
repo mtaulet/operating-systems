@@ -1,4 +1,4 @@
-# operating-systems-EC440
+# operating-systems
 This repository contains the homework assignments for EC440 Operating Systems, Boston University Fall 2018.
 
 Project 1 Description:
